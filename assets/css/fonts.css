@@ -289,3 +289,39 @@
 /* 	font-style: normal; */
 /* 	src: url('fonts/iosevka-extended.woff2') format('woff2'); */
 /* } */
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  src: url('fonts/SpaceGrotesk-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-display: swap;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  src: url('fonts/SpaceGrotesk-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-display: swap;
+  font-weight: 660;
+  font-stretch: normal;
+  font-style: normal;
+  src: url('fonts/SpaceGrotesk-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-display: swap;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  src: url('fonts/SpaceGrotesk-Light.woff2') format('woff2');
+}
